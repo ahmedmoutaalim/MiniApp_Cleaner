@@ -1,0 +1,50 @@
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.cache
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.lref
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.g.resources
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\historiquePage.g.cs
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\historiquePage.baml
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\WindowUbdaterVersion.g.cs
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\WindowUbdaterVersion.baml
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\ProgressUpdatePage.g.cs
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\CircularProgressBar.dll
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\WinFormAnimation.dll
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\bin\Debug\CircularProgressBar.xml
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\ProgressUpdatePage.baml
+C:\Users\Youcode\source\repos\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CopyComplete
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\CircularProgressBar.dll
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\WinFormAnimation.dll
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\bin\Debug\CircularProgressBar.xml
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\historiquePage.g.cs
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\ProgressUpdatePage.g.cs
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\WindowUbdaterVersion.g.cs
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.lref
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\historiquePage.baml
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\ProgressUpdatePage.baml
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\WindowUbdaterVersion.baml
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.g.resources
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CopyComplete
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\MiniApp_Cleaner\Cleaner\obj\Debug\Cleaner.pdb
